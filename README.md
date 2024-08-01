@@ -96,5 +96,6 @@ This project demonstrates the process of developing and implementing security po
 - [CIS Controls](https://www.cisecurity.org/controls/)
 - [ISO/IEC 27001](https://www.iso.org/isoiec-27001-information-security.html)
 
----
 
+---
+George Ofosu, CASP
