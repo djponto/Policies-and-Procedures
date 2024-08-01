@@ -98,25 +98,3 @@ This project demonstrates the process of developing and implementing security po
 
 ---
 
-To upload this markdown file to GitHub, follow these steps:
-
-1. **Create a New Repository on GitHub**:
-   - Go to GitHub and create a new repository.
-   - Name it something relevant like `cybersecurity-policies-and-controls`.
-
-2. **Clone the Repository to Your Local Machine**:
-   - Open your terminal.
-   - Run `git clone https://github.com/yourusername/cybersecurity-policies-and-controls.git`.
-
-3. **Add the Markdown File**:
-   - Navigate to the cloned directory: `cd cybersecurity-policies-and-controls`.
-   - Create a new file called `README.md` and paste the markdown content above into this file.
-
-4. **Add and Commit the Changes**:
-   - Run `git add README.md`.
-   - Run `git commit -m "Add security policies and controls documentation"`.
-
-5. **Push the Changes to GitHub**:
-   - Run `git push origin main`.
-
-Your markdown file will now be available in your GitHub repository. You can add images to the `images` directory within the repository and update the image links in the markdown file accordingly.
